@@ -2,6 +2,8 @@
 <img alt="" title="" src="" width="" />
 </h1>
 
+<h2 align="center">Template para README.md</h2>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rlocatelli9/template-README">
   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
@@ -26,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="#satellite-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#bookmark_tabs-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -34,15 +36,13 @@
 
 <br>
 
-## :satellite: Tecnologias
+## :bookmark_tabs: Tecnologias
 
 Technologies used in the development of the project:
 
-- [github](https://github.com)
-- [tech2](https://link)
-- [tech3](https://link)
-- [tech4](https://link)
-- [tech5](https://link)
+- [Markdown](https://en.wikipedia.org/wiki/Markdown)
+- [Github](https://github.com)
+- [Emoji](https://gist.github.com/rxaviers/7360908)
 
 ## 💻 Projeto
 
