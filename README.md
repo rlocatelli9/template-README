@@ -1,5 +1,6 @@
 <h1 align="center">
 <img alt="" title="" src="" width="" />
+  <!-- trocar: 'você pode colocar uma imagem (logo) que represente seu projeto (visualmente) -->
 </h1>
 
 <h2 align="center">Template para README.md</h2>
@@ -8,18 +9,18 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rlocatelli9/template-README">
   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rlocatelli9/GoBarber-api">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rlocatelli9/template-README">
   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
-  <a href="https://github.com/rlocatelli9/GoBarber-api/commits/master">
+  <a href="https://github.com/rlocatelli9/template-README/commits/master">
   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rlocatelli9/GoBarber-api">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rlocatelli9/template-README">
      <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
   </a>
 
-  <a href="https://github.com/rlocatelli9/GoBarber-api/issues">
+  <a href="https://github.com/rlocatelli9/template-README/issues">
    <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/rlocatelli9/GoBarber-api">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/rlocatelli9/template-README">
      <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
   </a>
